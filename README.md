@@ -21,6 +21,11 @@ Full-stack solo build: **Next.js 15 · React · Node.js · Express · Prisma · 
 - Real-time voice AI with sub-500ms latency
 - Multi-tenant SaaS with role-based access
 
+### [BaliGuide](https://baliguid.vercel.app) — Discover Bali
+> Community-driven platform to find cafes, events, coworking spaces, and local guides in Bali.
+
+Next.js · React · Auth · Maps integration · Community features
+
 ---
 
 ## Open source contributions
