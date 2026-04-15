@@ -1,45 +1,63 @@
-# Hamza — Full-stack TS/JS developer
+# Hey, I'm Hamza 👋
 
-**Based in Morocco · Available now · $15/hr · Contract / freelance**
+Full-stack developer from Morocco. I build products and contribute to open source.
 
-I ship production fixes and features in TypeScript, React, Next.js, and Node. Fast turnaround, clean diffs, no drama.
+I built **[Akol](https://akol.ai)** — an AI voice agent platform for businesses — solo, from scratch. Dashboard, voice engine, billing, API, docs, Shopify integration, mobile app. All shipped, all live.
 
-📬 **contact.digitybox@gmail.com** · [Upwork](https://upwork.com/freelancers/xhamzax) · [Freelancer](https://www.freelancer.com/u/hamzas370) · [LinkedIn](https://www.linkedin.com/in/xhamzax/)
-
----
-
-## 🚀 Recent shipped work
-
-Merged pull requests to production open-source projects in the last 10 days:
-
-| Repo | PR | What I fixed |
-|---|---|---|
-| [`formbricks/formbricks`](https://github.com/formbricks/formbricks) ⭐ 10k+ | [#7731](https://github.com/formbricks/formbricks/pull/7731) | OIDC button text overlap with "last used" indicator |
-| [`langgenius/dify`](https://github.com/langgenius/dify) ⭐ 80k+ | [#34950](https://github.com/langgenius/dify/pull/34950) | RAG: include `is_summary` and `original_chunk_id` in default vector projection |
-| [`langgenius/dify`](https://github.com/langgenius/dify) ⭐ 80k+ | [#34909](https://github.com/langgenius/dify/pull/34909) | Workflow: correct maximized editor panel layout in execution logs |
-
-Open PRs in review: 5 more across `dify`, `formbricks`, and `cal.com`.
+📬 **contact.digitybox@gmail.com** · [LinkedIn](https://www.linkedin.com/in/xhamzax/) · [Upwork](https://upwork.com/freelancers/xhamzax)
 
 ---
 
-## 🛠 Stack
+## What I built
 
-**Strong:** TypeScript · JavaScript · React 18/19 · Next.js 14/15 · Node · Hono · Prisma · Supabase · Tailwind · shadcn/ui · Stripe (incl. Connect) · React Native / Expo · Shopify · Postgres · SQLite · Cloudflare Workers · AI SDK / Claude / OpenAI
+### [Akol](https://akol.ai) — AI Voice Agents for Businesses
+> AI that answers your business phone 24/7, sounds human, books appointments.
 
-**Comfortable:** Python · Redis · Kubernetes basics · Vitest · Jest · Playwright
+Full-stack solo build: **Next.js 15 · React · Node.js · Express · Prisma · PostgreSQL · WebSocket voice streaming · Expo mobile app · Shopify integration · Stripe billing · Cloudflare Workers**
 
----
-
-## 💼 What I can do this week
-
-- **Bug fixes in your React/Next/Node app** — 24–48h turnaround, PR with tests
-- **Figma → Next.js page** — pixel-accurate, responsive, accessible
-- **Stripe / Stripe Connect integration** — checkout, subscriptions, marketplace payouts
-- **Third-party API integration** — OAuth, webhooks, rate limits, retries
-- **Shopify custom apps & theme work** — Liquid, Hydrogen, admin API
-
-If it's TypeScript and it needs shipping, I can help. Email me or message on Upwork.
+- **[app.akol.ai](https://app.akol.ai)** — Dashboard (campaigns, agents, analytics, team management)
+- **[docs.akol.ai](https://docs.akol.ai)** — Documentation with RAG-powered AI chat
+- **[akol.ai](https://akol.ai)** — Marketing site
+- Real-time voice AI with sub-500ms latency
+- Multi-tenant SaaS with role-based access
 
 ---
 
-<sub>Updated 2026-04-15</sub>
+## Open source contributions
+
+Merged and in-review PRs across major projects:
+
+| Project | Stars | PR | Status |
+|---|---|---|---|
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#34950](https://github.com/langgenius/dify/pull/34950) — Fix RAG vector projection | ✅ Merged |
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#34909](https://github.com/langgenius/dify/pull/34909) — Fix workflow editor layout | ✅ Merged |
+| [formbricks/formbricks](https://github.com/formbricks/formbricks) | 10k+ | [#7731](https://github.com/formbricks/formbricks/pull/7731) — Fix OIDC button overlap | ✅ Merged |
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#35115](https://github.com/langgenius/dify/pull/35115) — Fix large integer precision | 🔄 In review |
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#35114](https://github.com/langgenius/dify/pull/35114) — Fix IME composition leak | 🔄 In review |
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#34948](https://github.com/langgenius/dify/pull/34948) — Fix annotation reply lock | 🔄 In review |
+| [langgenius/dify](https://github.com/langgenius/dify) | 80k+ | [#34945](https://github.com/langgenius/dify/pull/34945) — Fix stale conversation ID | 🔄 In review |
+| [formbricks/formbricks](https://github.com/formbricks/formbricks) | 10k+ | [#7732](https://github.com/formbricks/formbricks/pull/7732) — Fix Docker install script | 🔄 In review |
+
+---
+
+## Stack
+
+**Core:** TypeScript · React · Next.js 15 · Node.js · Prisma · PostgreSQL · Tailwind · shadcn/ui
+
+**Mobile:** React Native · Expo SDK 54
+
+**AI/Voice:** Claude API · OpenAI · ElevenLabs · WebSocket streaming · RAG
+
+**Infrastructure:** Cloudflare Workers · Nginx · PM2 · Linux VPS · SQLite
+
+**Payments:** Stripe · Stripe Connect
+
+**Other:** Shopify (Liquid, Admin API) · Redis · Vitest · Playwright
+
+---
+
+## Available for work
+
+I'm looking for contract/freelance work in TypeScript, React, Next.js, Node.js, or React Native. I ship fast, write clean code, and I'm comfortable working autonomously.
+
+If you have a project, email me at **contact.digitybox@gmail.com**.
