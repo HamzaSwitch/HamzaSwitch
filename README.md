@@ -4,7 +4,7 @@ Full-stack developer from Morocco. I build products and contribute to open sourc
 
 I built **[Akol](https://akol.ai)** — an AI voice agent platform for businesses — solo, from scratch. Dashboard, voice engine, billing, API, docs, Shopify integration, mobile app. All shipped, all live.
 
-📬 **hamzaswitch1221@gmail.com** · [LinkedIn](https://www.linkedin.com/in/xhamzax/) · [Upwork](https://upwork.com/freelancers/xhamzax)
+· [LinkedIn](https://www.linkedin.com/in/xhamzax/) · [Upwork](https://upwork.com/freelancers/xhamzax)
 
 ---
 
